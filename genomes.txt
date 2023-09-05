@@ -1,0 +1,5 @@
+genome cen17
+trackDb trackDb.txt
+twoBitPath cen17.2bit
+organism Homo Sapiens
+defaultPos HG01258.pat.cen17:20697401-24178197
